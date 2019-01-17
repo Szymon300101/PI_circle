@@ -1,6 +1,7 @@
 # PI_circle
 Program napisany w Javie w środowisku graficznym Processing.  
 Aby go skompilować wymagane jest środowisko.  
+Plik 'pi.txt' przechowuje rozwinęcie dziesiętne PI  
   
 Ideą programu była wizualizacja liczby PI,  
 jednak nie można powiedzieć żeby efekt  
